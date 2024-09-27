@@ -16,6 +16,7 @@ def open_file():
         outputfile_text.config(state=tk.DISABLED)  # Vô hiệu hóa chỉnh sửa
 
 root = tk.Tk()
+
 root.title("Trình scan PDF")
 
 # Set the window to full screen
