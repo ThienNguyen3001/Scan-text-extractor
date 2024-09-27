@@ -23,7 +23,7 @@ root.title("Trình scan PDF")
 root.state('zoomed')
 
 # Set the window icon
-icon = tk.PhotoImage(file=r'C:\Users\Admin\Desktop\python\PDF extractor\Icon\icon.png')  
+icon = tk.PhotoImage(file=r'Icon\icon.png')  
 root.iconphoto(False, icon)
 
 # Create a frame for better layout management
