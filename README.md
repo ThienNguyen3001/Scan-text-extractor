@@ -1,5 +1,5 @@
 # Scan-text-extractor
-<p>This is a small project using the tkinter and PDF libraries.</p>
+This is a small project using ```tkinter``` and ```PDF2``` libraries in Python.
 
 ## Pre-require
 
